@@ -14,7 +14,7 @@ exports.TOKENTELEGRAM = //token telegram
 
 ### Instalación 🔧
 
-_Crear la imaagen de docker con _
+_Crear la imaagen de docker con_
 
 ```
 docker build -t telegrambot . 
@@ -23,4 +23,4 @@ docker build -t telegrambot .
 _Una vez generado el contenedor, ejecutarlo_
 
 ```
-docker run -p 3000:3000 idContenedor```
+docker run -p 3000:3000 idContenedor
